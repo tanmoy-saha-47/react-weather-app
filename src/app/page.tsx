@@ -19,7 +19,7 @@ export default function Home() {
       setWeather('Please enter a city name.');
       return;
     }
-    const apiKey = '378af5f584194504efe4d557ecf18a36';
+    const apiKey = 'api-key';
     const city = location.trim();
     try {
       const response = await fetch(
