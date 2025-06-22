@@ -11,7 +11,7 @@ A beginner-friendly weather application that fetches live weather data using a p
 ## 🔨 Tech Stack
 - React
 - CSS
-- OpenWeatherMap API (or similar)
+- OpenWeatherMap API
 
 ## 📸 Screenshots
 (![Screenshot 2025-05-16 115356](https://github.com/user-attachments/assets/003dd3b0-d2af-4ed1-8d72-971b127bce51)
