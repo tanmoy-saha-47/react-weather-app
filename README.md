@@ -1,11 +1,8 @@
-# 🌤️ React Weather App
-
-A beginner-friendly weather application that fetches live weather data using a public API.
+# React Weather App 
 
 ## 🔧 Features
 - Search city to get current weather
-- Fetch data using `fetch` and `useEffect`
-- Simple, clean UI with CSS
+- Simple, clean UI
 - Displays temperature, weather status, and more
 
 ## 🔨 Tech Stack
